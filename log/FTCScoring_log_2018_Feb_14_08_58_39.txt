@@ -1,0 +1,230 @@
+----- Log Started at 08:58:39:212 -----
+08:58:39:212 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:58:39:217 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.4
+08:58:39:763 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+08:58:39:825 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+08:58:40:157 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:58:40:157 INFO	Startup Screen.<init>	Startup screen loaded
+08:58:43:154 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+08:58:43:186 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+08:58:43:241 INFO	MatchController.read	File not found
+08:58:43:272 FINEST	FTCScoringApp.createDivision	Creating Division
+08:58:43:274 INFO	DivisionController.read	File not found
+08:58:43:274 FINEST	FTCScoringApp.createDivisions	Starting the division entry dialog box
+08:59:11:575 INFO	FTCScoringApp.createDivisions	Divisions configured
+08:59:11:579 INFO	DivisionController.save	Saved Division information to divisions.txt
+08:59:11:638 INFO	SponsorController.read	File not found
+08:59:11:639 INFO	TeamController.read	File not found
+08:59:11:642 INFO	AllianceController.read	File not found
+08:59:11:643 INFO	AwardController.read	File not found, creating default awards
+08:59:11:651 INFO	AwardController.save	Saved Award information
+08:59:11:655 FINEST	ReportGenerator.<init>	creating report generator
+08:59:11:656 FINEST	ReportGenerator.<init>	Creating Reporting Directory
+08:59:12:102 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+08:59:12:110 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+08:59:12:115 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+08:59:12:123 FINEST	ReportWebServer.initialize	Creating Web server
+08:59:12:162 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+08:59:12:163 STDERR	log4j:WARN Please initialize the log4j system properly.
+08:59:12:261 STDERR	org.eclipse.jetty.server.Server@668d0d2c STOPPED
+ +-ServletContextHandler@65d2a58@65d2a58/,null started
+    +-SessionHandler@d01a14a started
+       +-ServletHandler@5121716e started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-792683220{}
+
+08:59:12:262 SEVERE	ReportWebServer.initialize	Error starting web server
+08:59:12:262 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+08:59:12:267 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+08:59:12:341 INFO	MessageManager.<init>	Generated new Key=-1798070678,169750814
+08:59:12:376 FINEST	MessageManager.initSocket	Found and configuring Interface: Intel(R) Ethernet Connection I217-LM, IP=10.30.49.30, OLA-JVQYLM1.ad.garmin.com
+08:59:12:438 FINEST	MessageManager.initSocket	Found and configuring Interface: VirtualBox Host-Only Ethernet Adapter, IP=192.168.56.1, OLA-JVQYLM1.ad.garmin.com
+08:59:50:068 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+08:59:50:069 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+09:00:02:353 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 49 rows
+09:00:02:354 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+09:00:02:356 STDERR	Exception in thread "AWT-EventQueue-0" 
+09:00:02:356 STDERR	java.lang.IllegalStateException: Cannot get a numeric value from a text cell
+09:00:02:356 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+09:00:02:357 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.getNumericCellValue(XSSFCell.java:208)
+09:00:02:357 STDERR		at com.usfirst.ftc.teams.Team.getTeamFromExcelRow(Team.java:157)
+09:00:02:357 STDERR		at com.usfirst.ftc.teams.TeamController.importTeamsFromExcel(TeamController.java:444)
+09:00:02:357 STDERR		at com.usfirst.ftc.teams.TeamPanel.importFile(TeamPanel.java:297)
+09:00:02:357 STDERR		at com.usfirst.ftc.teams.TeamPanel.access$6(TeamPanel.java:232)
+09:00:02:358 STDERR		at com.usfirst.ftc.teams.TeamPanel$6.actionPerformed(TeamPanel.java:414)
+09:00:02:358 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:00:02:358 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:00:02:358 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:00:02:359 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:00:02:359 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:00:02:359 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:00:02:360 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:00:02:360 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:00:02:360 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:00:02:360 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:00:02:361 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:00:02:361 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:00:02:361 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:00:02:361 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:00:02:362 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:00:02:362 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:00:02:362 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:00:02:362 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:00:02:363 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:00:02:363 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:00:02:364 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:00:02:364 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:00:02:364 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:00:02:365 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:365 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:365 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:00:02:366 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:00:02:366 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:00:02:366 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:367 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:00:02:367 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:00:02:367 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:00:02:367 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:00:02:368 STDERR		at java.awt.WaitDispatchSupport$2.run(Unknown Source)
+09:00:02:368 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:00:02:368 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:00:02:369 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:00:02:369 STDERR		at java.awt.WaitDispatchSupport.enter(Unknown Source)
+09:00:02:370 STDERR		at java.awt.Dialog.show(Unknown Source)
+09:00:02:370 STDERR		at java.awt.Component.show(Unknown Source)
+09:00:02:370 STDERR		at java.awt.Component.setVisible(Unknown Source)
+09:00:02:370 STDERR		at java.awt.Window.setVisible(Unknown Source)
+09:00:02:371 STDERR		at java.awt.Dialog.setVisible(Unknown Source)
+09:00:02:371 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.createDialogBox(HomePanel.java:213)
+09:00:02:371 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.modifyTeams(HomePanel.java:799)
+09:00:02:371 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel$4.actionPerformed(HomePanel.java:364)
+09:00:02:371 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:00:02:372 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:00:02:372 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:00:02:372 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:00:02:372 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:00:02:372 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:00:02:373 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:00:02:373 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:00:02:373 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:00:02:373 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:00:02:374 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:00:02:374 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:00:02:374 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:00:02:374 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:00:02:374 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:00:02:375 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:00:02:375 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:00:02:375 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:00:02:375 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:00:02:376 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:00:02:376 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:00:02:376 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:00:02:376 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:00:02:376 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:377 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:377 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:00:02:377 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:00:02:377 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:00:02:378 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:00:02:378 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:00:02:378 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:00:02:378 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:00:02:378 STDERR		at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+09:00:02:379 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:00:02:379 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:00:02:379 STDERR		at java.awt.EventDispatchThread.run(Unknown Source)
+09:01:09:492 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+09:01:09:492 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+09:01:21:833 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 49 rows
+09:01:21:833 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+09:01:21:833 STDERR	Exception in thread "AWT-EventQueue-0" 
+09:01:21:833 STDERR	java.lang.IllegalStateException: Cannot get a numeric value from a text cell
+09:01:21:834 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+09:01:21:835 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.getNumericCellValue(XSSFCell.java:208)
+09:01:21:835 STDERR		at com.usfirst.ftc.teams.Team.getTeamFromExcelRow(Team.java:157)
+09:01:21:835 STDERR		at com.usfirst.ftc.teams.TeamController.importTeamsFromExcel(TeamController.java:444)
+09:01:21:835 STDERR		at com.usfirst.ftc.teams.TeamPanel.importFile(TeamPanel.java:297)
+09:01:21:836 STDERR		at com.usfirst.ftc.teams.TeamPanel.access$6(TeamPanel.java:232)
+09:01:21:836 STDERR		at com.usfirst.ftc.teams.TeamPanel$6.actionPerformed(TeamPanel.java:414)
+09:01:21:836 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:01:21:836 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:01:21:837 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:01:21:837 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:01:21:837 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:01:21:837 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:01:21:838 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:01:21:838 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:01:21:838 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:01:21:845 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:01:21:846 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:01:21:846 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:01:21:846 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:01:21:847 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:01:21:847 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:01:21:847 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:01:21:847 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:01:21:854 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:01:21:854 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:01:21:854 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:01:21:855 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:01:21:855 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:01:21:855 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:01:21:855 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:856 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:865 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:01:21:865 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:01:21:866 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:01:21:866 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:866 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:01:21:867 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:01:21:867 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:01:21:868 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:01:21:868 STDERR		at java.awt.WaitDispatchSupport$2.run(Unknown Source)
+09:01:21:868 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:01:21:868 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:01:21:869 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:01:21:869 STDERR		at java.awt.WaitDispatchSupport.enter(Unknown Source)
+09:01:21:869 STDERR		at java.awt.Dialog.show(Unknown Source)
+09:01:21:869 STDERR		at java.awt.Component.show(Unknown Source)
+09:01:21:869 STDERR		at java.awt.Component.setVisible(Unknown Source)
+09:01:21:870 STDERR		at java.awt.Window.setVisible(Unknown Source)
+09:01:21:870 STDERR		at java.awt.Dialog.setVisible(Unknown Source)
+09:01:21:870 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.createDialogBox(HomePanel.java:213)
+09:01:21:870 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.modifyTeams(HomePanel.java:799)
+09:01:21:871 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel$4.actionPerformed(HomePanel.java:364)
+09:01:21:871 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:01:21:871 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:01:21:872 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:01:21:872 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:01:21:872 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:01:21:872 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:01:21:873 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:01:21:873 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:01:21:873 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:01:21:873 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:01:21:873 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:01:21:873 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:01:21:873 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:01:21:873 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:01:21:874 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:01:21:874 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:01:21:874 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:01:21:874 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:01:21:874 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:01:21:874 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:01:21:874 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:01:21:874 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:01:21:874 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:01:21:874 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:874 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:01:21:875 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:01:21:875 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:01:21:875 STDERR		at java.awt.EventDispatchThread.run(Unknown Source)

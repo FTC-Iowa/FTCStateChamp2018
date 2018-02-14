@@ -1,0 +1,9 @@
+----- Log Started at 08:57:04:241 -----
+08:57:04:240 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:57:04:246 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.4
+08:57:06:859 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+08:57:06:926 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+08:57:07:268 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+08:57:07:268 INFO	Startup Screen.<init>	Startup screen loaded
+08:57:08:694 FINEST	Startup Screen.Exit Action Listener	Exiting Application
+----- Log Terminated at 08:57:08:707 -----

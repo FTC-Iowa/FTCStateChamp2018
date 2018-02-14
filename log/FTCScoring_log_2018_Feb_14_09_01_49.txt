@@ -1,0 +1,239 @@
+----- Log Started at 09:01:50:028 -----
+09:01:50:028 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+09:01:50:033 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.4
+09:01:50:525 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+09:01:50:583 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+09:01:50:926 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+09:01:50:926 INFO	Startup Screen.<init>	Startup screen loaded
+09:01:52:241 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+09:01:52:265 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+09:01:52:292 INFO	MatchController.read	File not found
+09:01:52:310 FINEST	FTCScoringApp.createDivision	Creating Division
+09:01:52:312 FINEST	DivisionController.read	Reading event name from file
+09:01:52:312 FINEST	DivisionController.read	Reading event type from file
+09:01:52:312 FINEST	DivisionController.read	multiple division flag from file
+09:01:52:313 INFO	DivisionController.read	Divisions successfully read, 1 read from file
+09:01:52:369 INFO	SponsorController.read	File not found
+09:01:52:370 INFO	TeamController.read	File not found
+09:01:52:373 INFO	AllianceController.read	File not found
+09:01:52:376 INFO	AwardController.read	Awards successfully read, 12 read from file
+09:01:52:379 FINEST	ReportGenerator.<init>	creating report generator
+09:01:52:953 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+09:01:52:959 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+09:01:52:964 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+09:01:52:972 FINEST	ReportWebServer.initialize	Creating Web server
+09:01:52:993 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+09:01:52:993 STDERR	log4j:WARN Please initialize the log4j system properly.
+09:01:53:206 STDERR	org.eclipse.jetty.server.Server@44df399c STOPPED
+ +-ServletContextHandler@1e051140@1e051140/,null started
+    +-SessionHandler@2226b13 started
+       +-ServletHandler@27a6838e started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-1569424116{}
+
+09:01:53:207 SEVERE	ReportWebServer.initialize	Error starting web server
+09:01:53:207 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+09:01:53:210 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+09:01:53:211 INFO	MessageManager.<init>	Retrieved from file key=-1798070678,169750814
+09:01:53:280 FINEST	MessageManager.initSocket	Found and configuring Interface: Intel(R) Ethernet Connection I217-LM, IP=10.30.49.30, OLA-JVQYLM1.ad.garmin.com
+09:01:53:340 FINEST	MessageManager.initSocket	Found and configuring Interface: VirtualBox Host-Only Ethernet Adapter, IP=192.168.56.1, OLA-JVQYLM1.ad.garmin.com
+09:01:55:087 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+09:01:55:088 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+09:02:04:639 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 49 rows
+09:02:04:639 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+09:02:04:640 STDERR	Exception in thread "AWT-EventQueue-0" 
+09:02:04:640 STDERR	java.lang.IllegalStateException: Cannot get a numeric value from a text cell
+09:02:04:641 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:845)
+09:02:04:641 STDERR		at org.apache.poi.xssf.usermodel.XSSFCell.getNumericCellValue(XSSFCell.java:208)
+09:02:04:641 STDERR		at com.usfirst.ftc.teams.Team.getTeamFromExcelRow(Team.java:157)
+09:02:04:641 STDERR		at com.usfirst.ftc.teams.TeamController.importTeamsFromExcel(TeamController.java:444)
+09:02:04:641 STDERR		at com.usfirst.ftc.teams.TeamPanel.importFile(TeamPanel.java:297)
+09:02:04:642 STDERR		at com.usfirst.ftc.teams.TeamPanel.access$6(TeamPanel.java:232)
+09:02:04:642 STDERR		at com.usfirst.ftc.teams.TeamPanel$6.actionPerformed(TeamPanel.java:414)
+09:02:04:642 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:02:04:642 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:02:04:643 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:02:04:643 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:02:04:643 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:02:04:643 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:02:04:644 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:02:04:644 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:02:04:644 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:02:04:644 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:02:04:645 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:02:04:645 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:02:04:645 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:02:04:646 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:02:04:646 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:02:04:653 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:02:04:653 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:02:04:653 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:02:04:653 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:02:04:654 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:02:04:654 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:02:04:654 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:02:04:654 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:02:04:662 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:663 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:663 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:02:04:663 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:02:04:663 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:02:04:664 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:664 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:02:04:664 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:02:04:669 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:02:04:669 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:02:04:670 STDERR		at java.awt.WaitDispatchSupport$2.run(Unknown Source)
+09:02:04:670 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:02:04:670 STDERR		at java.awt.WaitDispatchSupport$4.run(Unknown Source)
+09:02:04:670 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:02:04:670 STDERR		at java.awt.WaitDispatchSupport.enter(Unknown Source)
+09:02:04:671 STDERR		at java.awt.Dialog.show(Unknown Source)
+09:02:04:671 STDERR		at java.awt.Component.show(Unknown Source)
+09:02:04:672 STDERR		at java.awt.Component.setVisible(Unknown Source)
+09:02:04:672 STDERR		at java.awt.Window.setVisible(Unknown Source)
+09:02:04:672 STDERR		at java.awt.Dialog.setVisible(Unknown Source)
+09:02:04:672 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.createDialogBox(HomePanel.java:213)
+09:02:04:673 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel.modifyTeams(HomePanel.java:799)
+09:02:04:673 STDERR		at com.usfirst.ftc.systemUI.panels.HomePanel$4.actionPerformed(HomePanel.java:364)
+09:02:04:673 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+09:02:04:673 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+09:02:04:674 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+09:02:04:674 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+09:02:04:674 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+09:02:04:675 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+09:02:04:675 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+09:02:04:675 STDERR		at java.awt.Component.processEvent(Unknown Source)
+09:02:04:675 STDERR		at java.awt.Container.processEvent(Unknown Source)
+09:02:04:675 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+09:02:04:676 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:02:04:676 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:02:04:676 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+09:02:04:677 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+09:02:04:677 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+09:02:04:677 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+09:02:04:677 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+09:02:04:677 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+09:02:04:678 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+09:02:04:678 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+09:02:04:679 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:02:04:679 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+09:02:04:679 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:02:04:679 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:680 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:680 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:02:04:680 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+09:02:04:681 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+09:02:04:681 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+09:02:04:681 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+09:02:04:681 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+09:02:04:681 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+09:02:04:682 STDERR		at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+09:02:04:682 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:02:04:682 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+09:02:04:683 STDERR		at java.awt.EventDispatchThread.run(Unknown Source)
+09:03:51:888 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 49 rows
+09:03:51:888 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+09:03:51:892 FINEST	TeamController.ImportTeamsFromExcel	Row 2 contains 7 columns
+09:03:51:893 FINEST	TeamController.ImportTeamsFromExcel	Row 3 contains 7 columns
+09:03:51:894 FINEST	TeamController.ImportTeamsFromExcel	Row 4 contains 7 columns
+09:03:51:894 FINEST	TeamController.ImportTeamsFromExcel	Row 5 contains 7 columns
+09:03:51:894 FINEST	TeamController.ImportTeamsFromExcel	Row 6 contains 7 columns
+09:03:51:895 FINEST	TeamController.ImportTeamsFromExcel	Row 7 contains 7 columns
+09:03:51:895 FINEST	TeamController.ImportTeamsFromExcel	Row 8 contains 7 columns
+09:03:51:896 FINEST	TeamController.ImportTeamsFromExcel	Row 9 contains 7 columns
+09:03:51:896 FINEST	TeamController.ImportTeamsFromExcel	Row 10 contains 7 columns
+09:03:51:896 FINEST	TeamController.ImportTeamsFromExcel	Row 11 contains 7 columns
+09:03:51:896 FINEST	TeamController.ImportTeamsFromExcel	Row 12 contains 7 columns
+09:03:51:897 FINEST	TeamController.ImportTeamsFromExcel	Row 13 contains 7 columns
+09:03:51:897 FINEST	TeamController.ImportTeamsFromExcel	Row 14 contains 7 columns
+09:03:51:897 FINEST	TeamController.ImportTeamsFromExcel	Row 15 contains 7 columns
+09:03:51:897 FINEST	TeamController.ImportTeamsFromExcel	Row 16 contains 7 columns
+09:03:51:897 FINEST	TeamController.ImportTeamsFromExcel	Row 17 contains 7 columns
+09:03:51:898 FINEST	TeamController.ImportTeamsFromExcel	Row 18 contains 7 columns
+09:03:51:898 FINEST	TeamController.ImportTeamsFromExcel	Row 19 contains 7 columns
+09:03:51:898 FINEST	TeamController.ImportTeamsFromExcel	Row 20 contains 7 columns
+09:03:51:898 FINEST	TeamController.ImportTeamsFromExcel	Row 21 contains 7 columns
+09:03:51:898 FINEST	TeamController.ImportTeamsFromExcel	Row 22 contains 7 columns
+09:03:51:899 FINEST	TeamController.ImportTeamsFromExcel	Row 23 contains 7 columns
+09:03:51:899 FINEST	TeamController.ImportTeamsFromExcel	Row 24 contains 7 columns
+09:03:51:899 FINEST	TeamController.ImportTeamsFromExcel	Row 25 contains 7 columns
+09:03:51:899 FINEST	TeamController.ImportTeamsFromExcel	Row 26 contains 7 columns
+09:03:51:899 FINEST	TeamController.ImportTeamsFromExcel	Row 27 contains 7 columns
+09:03:51:900 FINEST	TeamController.ImportTeamsFromExcel	Row 28 contains 7 columns
+09:03:51:900 FINEST	TeamController.ImportTeamsFromExcel	Row 29 contains 7 columns
+09:03:51:900 FINEST	TeamController.ImportTeamsFromExcel	Row 30 contains 7 columns
+09:03:51:900 FINEST	TeamController.ImportTeamsFromExcel	Row 31 contains 7 columns
+09:03:51:900 FINEST	TeamController.ImportTeamsFromExcel	Row 32 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 33 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 34 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 35 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 36 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 37 contains 7 columns
+09:03:51:901 FINEST	TeamController.ImportTeamsFromExcel	Row 38 contains 7 columns
+09:03:51:902 FINEST	TeamController.ImportTeamsFromExcel	Row 39 contains 7 columns
+09:03:51:902 FINEST	TeamController.ImportTeamsFromExcel	Row 40 contains 7 columns
+09:03:51:902 FINEST	TeamController.ImportTeamsFromExcel	Row 41 contains 7 columns
+09:03:51:902 FINEST	TeamController.ImportTeamsFromExcel	Row 42 contains 7 columns
+09:03:51:902 FINEST	TeamController.ImportTeamsFromExcel	Row 43 contains 7 columns
+09:03:51:903 FINEST	TeamController.ImportTeamsFromExcel	Row 44 contains 7 columns
+09:03:51:903 FINEST	TeamController.ImportTeamsFromExcel	Row 45 contains 7 columns
+09:03:51:903 FINEST	TeamController.ImportTeamsFromExcel	Row 46 contains 7 columns
+09:03:51:903 FINEST	TeamController.ImportTeamsFromExcel	Row 47 contains 7 columns
+09:03:51:903 FINEST	TeamController.ImportTeamsFromExcel	Row 48 contains 7 columns
+09:03:51:909 INFO	TeamController.save	Saved team information
+09:04:20:210 INFO	TeamController.save	Saved team information
+09:04:20:210 FINEST	TeamTableModel.deleteRow	Deleting Team: 13732, J-Hawk Robotics
+09:04:20:615 WARNING	TeamPanel.deleteAction	No row selected, cannot delete team
+09:04:20:855 WARNING	TeamPanel.deleteAction	No row selected, cannot delete team
+09:04:23:428 INFO	TeamController.save	Saved team information
+09:04:23:429 FINEST	TeamTableModel.deleteRow	Deleting Team: 4144, Engineer Imagineer
+09:04:23:639 WARNING	TeamPanel.deleteAction	No row selected, cannot delete team
+09:04:25:241 INFO	TeamController.save	Saved team information
+09:04:25:241 FINEST	TeamTableModel.deleteRow	Deleting Team: 4156, RoboCats Red
+09:04:26:264 INFO	TeamController.save	Saved team information
+09:04:26:264 FINEST	TeamTableModel.deleteRow	Deleting Team: 4177, Finger Tightans
+09:04:27:212 INFO	TeamController.save	Saved team information
+09:04:27:212 FINEST	TeamTableModel.deleteRow	Deleting Team: 5143, Xcentrics
+09:04:28:057 INFO	TeamController.save	Saved team information
+09:04:28:057 FINEST	TeamTableModel.deleteRow	Deleting Team: 5466, Combustible Lemons
+09:04:32:361 FINEST	FTCScoringApp.endEvent	Ending event and removing event specific files
+09:04:32:361 FINEST	FTCScoringApp.endEvent	Deleting Message Key File
+09:04:32:365 FINEST	FTCScoringApp.endEvent	Deleting Awards File
+09:04:32:366 INFO	AwardController.clear	Removing all existing Awards data and deleting awards.txt
+09:04:32:375 INFO	AwardController.clear	Could not delete award file: awards.txt
+09:04:32:376 FINEST	FTCScoringApp.endEvent	Deleting Match File
+09:04:32:376 INFO	MatchController.clear	Removing all existing match data and deleting matches.txt
+09:04:32:376 INFO	TeamController.resetStatistics	Resetting statistics for teams in division + 1
+09:04:32:383 INFO	DivisionController.save	Saved Division information to divisions.txt
+09:04:32:385 INFO	MatchController.clear	could not remove matches.txt
+09:04:32:390 FINEST	FTCScoringApp.endEvent	Deleting Reports
+09:04:32:390 FINEST	ReportGenerator.clear	Deleting Reports Files in directory: C:\Users\vens\Desktop\ftc\ftc-ia-black/reports
+09:04:32:392 FINEST	ReportGenerator.clear	Deleting Report File: MatchResultsDetails_Iowa_Championship_Black.html
+09:04:32:393 FINEST	ReportGenerator.clear	Deleting Report File: MatchResults_Iowa_Championship_Black.html
+09:04:32:394 FINEST	ReportGenerator.clear	Deleting Report File: Rankings_Iowa_Championship_Black.html
+09:04:32:397 FINEST	FTCScoringAppl.endEvent	Deleting Team Data
+09:04:32:397 INFO	TeamController.clear	Removing all existing Team data and deleting teams.txt
+09:04:32:403 INFO	TeamController.clear	Could not delete team file: teams.txt
+09:04:32:403 FINEST	FTCScoringAppl.endEvent	Deleting Division Data
+09:04:32:403 INFO	DivisionController.clear	Removing all existing division data and deleting divisions.txt
+09:04:32:407 INFO	DivisionController.clear	Could not delete division file: divisions.txt
+09:04:32:408 FINEST	FTCScoringApp.endEvent	Deleting Alliance File
+09:04:32:409 INFO	AllianceController.clear	Removing all existing alliance data and deletingalliances.txt
+09:04:32:409 INFO	AllianceController.clear	Could not delete alliance data file: alliances.txt
+09:04:32:410 INFO	AllianceController.clear	Removing existing elimination matches
+09:04:32:410 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+09:04:32:410 INFO	MatchController.save	Saving real matches to disk
+09:04:32:412 INFO	MatchController.save	Saved Match information to directory C:\Users\vens\Desktop\ftc\ftc-ia-black\matches.txt
+09:04:32:414 FINEST	FTCProperties.store	Saving Properties File
+09:04:32:421 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+09:04:32:422 INFO	MatchController.save	Saving real matches to disk
+09:04:32:423 INFO	MatchController.save	Saved Match information to directory C:\Users\vens\Desktop\ftc\ftc-ia-black\matches.txt
+09:04:32:423 FINEST	FTCProperties.store	Saving Properties File
+09:04:32:424 FINEST	FTCScoringApp.endEvent	Deleting Schedule Information
+09:04:32:426 FINEST	ScheduleController.read	Schedule File does not exist
+09:04:32:426 INFO	ScheduleController.clear	Removing all existing schedule data and deleting schedule.txt
+09:04:32:426 FINEST	FTCScoringApp.endEvent	Clearing match printed status
+09:04:32:426 FINEST	FTCScoringApp.endEvent	Clearing archived data to send to FIRST flag.
+09:04:32:426 FINEST	FTCProperties.store	Saving Properties File
+09:04:32:433 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+----- Log Terminated at 09:04:32:439 -----

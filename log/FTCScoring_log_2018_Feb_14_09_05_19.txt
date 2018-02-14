@@ -1,0 +1,102 @@
+----- Log Started at 09:05:19:889 -----
+09:05:19:889 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+09:05:19:894 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.4
+09:05:20:368 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+09:05:20:423 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+09:05:20:772 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+09:05:20:773 INFO	Startup Screen.<init>	Startup screen loaded
+09:05:22:633 FINEST	Startup Screen.Start Scoring System Action	Starting Scoring Application
+09:05:22:653 FINEST	FTCScoringApp.Main	Starting FTCScoringApp
+09:05:22:684 WARNING	MatchController.compareMD5	Modification Check: Match file has been edited outside of scoring system.
+09:05:22:684 INFO	MatchController.read	Matches successfully read, 0 read from file
+09:05:22:687 INFO	DivisionController.read	File not found
+09:05:22:691 INFO	TeamController.read	File not found
+09:05:22:691 INFO	AllianceController.read	File not found
+09:05:22:696 INFO	MatchController.save	Saving real matches to disk
+09:05:22:697 INFO	MatchController.save	Saved Match information to directory C:\Users\vens\Desktop\ftc\ftc-ia-black\matches.txt
+09:05:22:698 FINEST	MatchController.createEliminationTracker	Match controller contains 0 matches
+09:05:22:718 FINEST	FTCScoringApp.createDivision	Creating Division
+09:05:22:719 FINEST	FTCScoringApp.createDivisions	Starting the division entry dialog box
+09:05:47:895 INFO	FTCScoringApp.createDivisions	Divisions configured
+09:05:47:896 INFO	DivisionController.save	Saved Division information to divisions.txt
+09:05:47:938 INFO	SponsorController.read	File not found
+09:05:47:940 INFO	AwardController.read	File not found, creating default awards
+09:05:47:943 INFO	AwardController.save	Saved Award information
+09:05:47:944 FINEST	ReportGenerator.<init>	creating report generator
+09:05:47:945 FINEST	ReportGenerator.<init>	Creating Reporting Directory
+09:05:48:308 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+09:05:48:317 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+09:05:48:322 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+09:05:48:330 FINEST	ReportWebServer.initialize	Creating Web server
+09:05:48:351 STDERR	log4j:WARN No appenders could be found for logger (org.eclipse.jetty.util.log).
+09:05:48:351 STDERR	log4j:WARN Please initialize the log4j system properly.
+09:05:48:429 STDERR	org.eclipse.jetty.server.Server@31d5e9cd STOPPED
+ +-ServletContextHandler@62ba510b@62ba510b/,null started
+    +-SessionHandler@7ae50769 started
+       +-ServletHandler@d01a14a started
+          +-[/*]=>com.usfirst.ftc.reporting.ReportServlet-851370196{}
+
+09:05:48:430 SEVERE	ReportWebServer.initialize	Error starting web server
+09:05:48:430 INFO	DisplayPanel.startMessageManager	Starting message interface to displays
+09:05:48:433 FINEST	MessageManager.<init>	Reading Key from file: key.txt
+09:05:48:492 INFO	MessageManager.<init>	Generated new Key=-1797674000,169750814
+09:05:48:526 FINEST	MessageManager.initSocket	Found and configuring Interface: Intel(R) Ethernet Connection I217-LM, IP=10.30.49.30, OLA-JVQYLM1.ad.garmin.com
+09:05:48:586 FINEST	MessageManager.initSocket	Found and configuring Interface: VirtualBox Host-Only Ethernet Adapter, IP=192.168.56.1, OLA-JVQYLM1.ad.garmin.com
+09:05:50:904 FINEST	StringBundle.getString	Key:TeamPanel.toolTip does not exist
+09:05:50:905 FINEST	StringBundle.getString	Key:numberLabel.text does not exist
+09:06:02:054 FINEST	TeamController.ImportTeamsFromExcel	Team file contains 49 rows
+09:06:02:054 FINEST	TeamController.ImportTeamsFromExcel	Row 1 contains 7 columns
+09:06:02:059 FINEST	TeamController.ImportTeamsFromExcel	Row 2 contains 7 columns
+09:06:02:059 FINEST	TeamController.ImportTeamsFromExcel	Row 3 contains 7 columns
+09:06:02:059 FINEST	TeamController.ImportTeamsFromExcel	Row 4 contains 7 columns
+09:06:02:060 FINEST	TeamController.ImportTeamsFromExcel	Row 5 contains 7 columns
+09:06:02:060 FINEST	TeamController.ImportTeamsFromExcel	Row 6 contains 7 columns
+09:06:02:061 FINEST	TeamController.ImportTeamsFromExcel	Row 7 contains 7 columns
+09:06:02:061 FINEST	TeamController.ImportTeamsFromExcel	Row 8 contains 7 columns
+09:06:02:061 FINEST	TeamController.ImportTeamsFromExcel	Row 9 contains 7 columns
+09:06:02:061 FINEST	TeamController.ImportTeamsFromExcel	Row 10 contains 7 columns
+09:06:02:062 FINEST	TeamController.ImportTeamsFromExcel	Row 11 contains 7 columns
+09:06:02:062 FINEST	TeamController.ImportTeamsFromExcel	Row 12 contains 7 columns
+09:06:02:062 FINEST	TeamController.ImportTeamsFromExcel	Row 13 contains 7 columns
+09:06:02:063 FINEST	TeamController.ImportTeamsFromExcel	Row 14 contains 7 columns
+09:06:02:063 FINEST	TeamController.ImportTeamsFromExcel	Row 15 contains 7 columns
+09:06:02:063 FINEST	TeamController.ImportTeamsFromExcel	Row 16 contains 7 columns
+09:06:02:063 FINEST	TeamController.ImportTeamsFromExcel	Row 17 contains 7 columns
+09:06:02:064 FINEST	TeamController.ImportTeamsFromExcel	Row 18 contains 7 columns
+09:06:02:064 FINEST	TeamController.ImportTeamsFromExcel	Row 19 contains 7 columns
+09:06:02:064 FINEST	TeamController.ImportTeamsFromExcel	Row 20 contains 7 columns
+09:06:02:065 FINEST	TeamController.ImportTeamsFromExcel	Row 21 contains 7 columns
+09:06:02:065 FINEST	TeamController.ImportTeamsFromExcel	Row 22 contains 7 columns
+09:06:02:065 FINEST	TeamController.ImportTeamsFromExcel	Row 23 contains 7 columns
+09:06:02:065 FINEST	TeamController.ImportTeamsFromExcel	Row 24 contains 7 columns
+09:06:02:066 FINEST	TeamController.ImportTeamsFromExcel	Row 25 contains 7 columns
+09:06:02:066 FINEST	TeamController.ImportTeamsFromExcel	Row 26 contains 7 columns
+09:06:02:066 FINEST	TeamController.ImportTeamsFromExcel	Row 27 contains 7 columns
+09:06:02:067 FINEST	TeamController.ImportTeamsFromExcel	Row 28 contains 7 columns
+09:06:02:067 FINEST	TeamController.ImportTeamsFromExcel	Row 29 contains 7 columns
+09:06:02:067 FINEST	TeamController.ImportTeamsFromExcel	Row 30 contains 7 columns
+09:06:02:067 FINEST	TeamController.ImportTeamsFromExcel	Row 31 contains 7 columns
+09:06:02:068 FINEST	TeamController.ImportTeamsFromExcel	Row 32 contains 7 columns
+09:06:02:068 FINEST	TeamController.ImportTeamsFromExcel	Row 33 contains 7 columns
+09:06:02:068 FINEST	TeamController.ImportTeamsFromExcel	Row 34 contains 7 columns
+09:06:02:068 FINEST	TeamController.ImportTeamsFromExcel	Row 35 contains 7 columns
+09:06:02:069 FINEST	TeamController.ImportTeamsFromExcel	Row 36 contains 7 columns
+09:06:02:069 FINEST	TeamController.ImportTeamsFromExcel	Row 37 contains 7 columns
+09:06:02:069 FINEST	TeamController.ImportTeamsFromExcel	Row 38 contains 7 columns
+09:06:02:070 FINEST	TeamController.ImportTeamsFromExcel	Row 39 contains 7 columns
+09:06:02:070 FINEST	TeamController.ImportTeamsFromExcel	Row 40 contains 7 columns
+09:06:02:070 FINEST	TeamController.ImportTeamsFromExcel	Row 41 contains 7 columns
+09:06:02:070 FINEST	TeamController.ImportTeamsFromExcel	Row 42 contains 7 columns
+09:06:02:071 FINEST	TeamController.ImportTeamsFromExcel	Row 43 contains 7 columns
+09:06:02:071 FINEST	TeamController.ImportTeamsFromExcel	Row 44 contains 7 columns
+09:06:02:071 FINEST	TeamController.ImportTeamsFromExcel	Row 45 contains 7 columns
+09:06:02:071 FINEST	TeamController.ImportTeamsFromExcel	Row 46 contains 7 columns
+09:06:02:071 FINEST	TeamController.ImportTeamsFromExcel	Row 47 contains 7 columns
+09:06:02:072 FINEST	TeamController.ImportTeamsFromExcel	Row 48 contains 7 columns
+09:06:02:084 INFO	TeamController.save	Saved team information
+09:07:41:550 FINEST	Startup Screen.startDualDivisionRankingsAction	Starting Dual Division Rankings Display Application
+09:07:41:634 FINEST	MessageReceiver.initSocket	Found and configuring Interface: Intel(R) Ethernet Connection I217-LM, IP=10.30.49.30, OLA-JVQYLM1.ad.garmin.com
+09:07:49:232 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/vens/Desktop/ftc/ftc-ia-black/FTCScoring.jar!/com/usfirst/ftc/graphics/DisplayBackground.png
+09:07:49:443 INFO	MessageReciever.initSocket	Starting Recieve thread
+09:25:28:718 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+09:25:28:726 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7

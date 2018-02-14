@@ -1,0 +1,8 @@
+Event Name
+Iowa Championship
+Event Type
+REGIONAL_CHAMPIONSHIP
+Using Multiple Divisions
+true
+Number|Name|Matches Per Team|Password
+1|Black|0|1|24|2018|Iowa
