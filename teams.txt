@@ -1,0 +1,48 @@
+1|4144|Engineer Imagineer| |Ottumwa|Iowa|USA|false|true|0
+1|6661|Starmont Sundevils| |Arlington|Iowa|USA|false|true|0
+1|7229|bzBots| |Hull|Iowa|USA|false|true|0
+1|7332|DodgerBOTS| |Fort Dodge|Iowa|USA|false|true|0
+1|7880|The Carnivorous Rabbits| |Cedar Falls|Iowa|USA|false|true|0
+1|8588|Finger Puppet Mafia| |DeWitt|Iowa|USA|false|true|0
+1|8661|Wildcats| |Glidden|Iowa|USA|false|true|0
+1|8672|UBett| |Bettendorf|Iowa|USA|false|true|0
+1|8696|Trobotix| |Iowa City|Iowa|USA|false|true|0
+1|8749|Robota White| |La Porte City|Iowa|USA|false|true|0
+1|8807|Molten Sprockets| |Cherokee|Iowa|USA|false|true|0
+1|8813|The Winter Soldiers| |Bettendorf|Iowa|USA|false|true|0
+1|9052|Recharged Orange| |Pella|Iowa|USA|false|true|0
+1|9950|Tachyon Travelers| |Mt. Vernon|Iowa|USA|false|true|0
+1|9967|Geared Up| |Le Mars|Iowa|USA|false|true|0
+1|10012|Nevada Nerds Anonymous| |Nevada|Iowa|USA|false|true|0
+1|10256|Robotic Wolves Green| |Manning|Iowa|USA|false|true|0
+1|10547|Mortal ComBots| |Davenport|Iowa|USA|false|true|0
+1|10602|NiceBot| |Fairfield|Iowa|USA|false|true|0
+1|11222|TROJAN TERABYTES | |Neola|Iowa|USA|false|true|0
+1|11252|RoboCats Black| |Central City|Iowa|USA|false|true|0
+1|12783|Norwalk RoboWarriors| |Norwalk|Iowa|USA|false|true|0
+1|13497|FTC Prairieview| |Waukee|Iowa|USA|false|true|0
+1|13732|J-Hawk Robotics| |Jesup|Iowa|USA|false|true|0
+2|4156|RoboCats Red| |Central City|Iowa|USA|false|true|0
+2|4177|Finger Tightans| |Riverside|Iowa|USA|false|true|0
+2|5143|Xcentrics| |Cedar Rapids|Iowa|USA|false|true|0
+2|5466|Combustible Lemons| |Davenport|Iowa|USA|false|true|0
+2|5913|Drop It Like It's Bot| |Marion|Iowa|USA|false|true|0
+2|5975|CYBOTS| |Denver|Iowa|USA|false|true|0
+2|6093|Deviation from the Norm| |Bettendorf|Iowa|USA|false|true|0
+2|6458|Burgbots| |Williamsburg|Iowa|USA|false|true|0
+2|6691|Cyber Reality| |West Des Moines|Iowa|USA|false|true|0
+2|7236|Recharged Green| |Pella|Iowa|USA|false|true|0
+2|7247|The H2O Loo Bots| |Waterloo|Iowa|USA|false|true|0
+2|7261|Omega Robotics| |Sioux City|Iowa|USA|false|true|0
+2|7491|Robot Corps| |Nevada|Iowa|USA|false|true|0
+2|7841|Ballen Pretzels 2| |Rock Rapids|Iowa|USA|false|true|0
+2|8695|Tri Hards| |Cedar Rapids|Iowa|USA|false|true|0
+2|9925|Delta Robotics| |Cedar Rapids|Iowa|USA|false|true|0
+2|9968|CrossFire| |Cedar Falls|Iowa|USA|false|true|0
+2|9974|T.H.O.R. | |Des Moines|Iowa|USA|false|true|0
+2|9978|Avengers Tech| |Sergeant Bluff|Iowa|USA|false|true|0
+2|10107|A League Of Their Own| |Marion|Iowa|USA|false|true|0
+2|10435|Circuit Breakers| |Waukee|Iowa|USA|false|true|0
+2|11316|Weapons of Mass Construction| |Indianola|Iowa|USA|false|true|0
+2|13206|Wave Droids| |Waverly|Iowa|USA|false|true|0
+2|13416|JagRobotics| |Gowrie|Iowa|USA|false|true|0

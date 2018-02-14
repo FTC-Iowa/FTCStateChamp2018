@@ -1,0 +1,8 @@
+{
+	"event": "test",
+	"divisions": [
+		"gold"
+	],
+	"server": "https://firstinspiresiowa.firebaseapp.com",
+	"passphrase": "x"
+}
