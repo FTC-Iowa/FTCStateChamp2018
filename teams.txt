@@ -16,7 +16,7 @@
 1|10012|Nevada Nerds Anonymous| |Nevada|Iowa|USA|false|true|0
 1|10256|Robotic Wolves Green| |Manning|Iowa|USA|false|true|0
 1|10547|Mortal ComBots| |Davenport|Iowa|USA|false|true|0
-1|10602|NiceBot| |Fairfield|Iowa|USA|false|true|0
+1|10602|Nut and Bolt| |Fairfield|Iowa|USA|false|true|0
 1|11222|TROJAN TERABYTES | |Neola|Iowa|USA|false|true|0
 1|11252|RoboCats Black| |Central City|Iowa|USA|false|true|0
 1|12783|Norwalk RoboWarriors| |Norwalk|Iowa|USA|false|true|0
