@@ -540,3 +540,37 @@
 16:26:08:453 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 16:26:23:978 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 16:26:23:988 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+16:37:53:853 INFO	MatchPanel.saveAction	saving scores for match F-3:
+16:37:53:853 FINEST	MatchController.update	Looking for next elimination match.  Match F-3 was just updated
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-3
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Red alliance has 2 wins
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Finals completed, event is finished, no more matches.
+16:37:53:853 FINEST	EliminationTracker.getNextMatch	Finals completed, Red Won.
+16:37:53:853 FINEST	MatchController.update	Elimination tracker could not find additional matches
+16:37:53:853 FINEST	MatchController.update	Elimination tracker reporting that event is complete
+16:37:53:853 FINEST	AwardController.setAward	Adding award Black Winning Alliance
+16:37:53:863 INFO	AwardController.save	Saved Award information
+16:37:53:863 FINEST	AwardController.setAward	Adding award Black Finalist Alliance
+16:37:53:873 INFO	AwardController.save	Saved Award information
+16:37:53:913 INFO	MatchController.save	Saving real matches to disk
+16:37:53:923 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+16:37:53:953 FINEST	FTCProperties.store	Saving Properties File
+16:37:53:953 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:37:53:973 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:37:53:993 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:38:25:080 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
+16:38:25:090 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+16:40:59:600 FINEST	FTCScoringView.saveDivisionWinners	Saving division winners to C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black
+16:40:59:600 FINEST	AwardController.setAward	Adding award Black Winning Alliance
+16:40:59:610 INFO	AwardController.save	Saved Award information
+16:40:59:610 FINEST	AwardController.setAward	Adding award Black Finalist Alliance
+16:40:59:610 INFO	AwardController.save	Saved Award information
+16:43:52:597 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+16:43:52:767 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+16:43:52:777 FINEST	FTCProperties.store	Saving Properties File
+16:43:52:777 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+16:43:52:777 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+----- Log Terminated at 16:43:52:777 -----
