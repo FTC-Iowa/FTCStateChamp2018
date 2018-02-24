@@ -3,5 +3,5 @@
 git add .
 git commit -m "sync"
 git push
-TIMEOUT /t 6000 
+TIMEOUT /t 600 
 goto loop
