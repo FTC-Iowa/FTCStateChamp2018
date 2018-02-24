@@ -114,3 +114,5 @@
 17:45:55:559 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 17:49:35:736 INFO	ReportGenerator.generateTeaminformationReport	Generating team information report
 17:49:35:736 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+08:08:21:502 INFO	ReportGenerator.generateMatchList	Generating Match list report
+08:08:21:502 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
