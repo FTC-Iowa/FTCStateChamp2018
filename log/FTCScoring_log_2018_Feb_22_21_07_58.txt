@@ -116,3 +116,108 @@
 17:49:35:736 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 08:08:21:502 INFO	ReportGenerator.generateMatchList	Generating Match list report
 08:08:21:502 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+08:34:54:511 FINEST	Startup Screen.startDisplayAction	Starting Audience/Pit Display Application
+08:34:54:636 FINEST	MessageReceiver.initSocket	Found and configuring Interface: Qualcomm Atheros QCA9565 802.11b/g/n WiFi Adapter, IP=172.20.28.235, FTC_IOWA_1
+08:34:54:901 INFO	MessageReciever.initSocket	Starting Recieve thread
+08:35:02:779 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/DisplayBackground.png
+08:35:03:107 FINEST	IconManager.readIcons	Reading icons from C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-goldicons
+08:35:03:107 FINEST	IconManager.<init>	Set dimension to java.awt.Dimension[width=45,height=45]
+08:35:03:107 FINEST	ScaleGUI.getScaledIcon	Scaling file /com/FIRST/FTC/Graphics/teamicon.gif
+08:35:03:122 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/presenting_sponsor.png
+08:35:03:169 FINEST	ScaleGUI.getScaleIcon	Scaling image with width set to maintain aspect ratio
+08:35:03:200 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/program_sponsors.png
+08:35:03:247 FINEST	ScaleGUI.getScaleIcon	Scaling image with height set to maintain aspect ratio
+08:35:03:434 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/alliancebar.png
+08:35:03:465 FINEST	ScaleGUI.getScaleIcon	Scaling image with width set to maintain aspect ratio
+08:35:03:528 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W0.png
+08:35:03:559 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W1.png
+08:35:03:590 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W2.png
+08:35:03:606 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W3.png
+08:35:03:637 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W4.png
+08:35:03:668 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W5.png
+08:35:03:684 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W6.png
+08:35:03:715 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W7.png
+08:35:03:746 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W8.png
+08:35:03:762 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W9.png
+08:35:03:777 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolon.png
+08:35:03:824 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
+08:35:03:840 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
+08:35:03:840 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W0.png
+08:35:03:855 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W1.png
+08:35:03:873 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W2.png
+08:35:03:873 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W3.png
+08:35:03:889 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W4.png
+08:35:03:904 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W5.png
+08:35:03:920 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W6.png
+08:35:03:935 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W7.png
+08:35:03:951 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W8.png
+08:35:03:967 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W9.png
+08:35:03:967 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolon.png
+08:35:03:982 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
+08:35:03:982 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
+08:35:03:982 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y0.png
+08:35:04:013 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y1.png
+08:35:04:029 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y2.png
+08:35:04:060 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y3.png
+08:35:04:076 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y4.png
+08:35:04:091 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y5.png
+08:35:04:123 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y6.png
+08:35:04:138 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y7.png
+08:35:04:154 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y8.png
+08:35:04:185 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Y9.png
+08:35:04:201 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Ycolon.png
+08:35:04:216 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Ycolonoff.png
+08:35:04:216 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Ydigitoff.png
+08:35:04:232 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R0.png
+08:35:04:279 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R1.png
+08:35:04:294 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R2.png
+08:35:04:325 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R3.png
+08:35:04:341 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R4.png
+08:35:04:372 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R5.png
+08:35:04:388 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R6.png
+08:35:04:419 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R7.png
+08:35:04:435 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R8.png
+08:35:04:466 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/R9.png
+08:35:04:481 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Rcolon.png
+08:35:04:497 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Rcolonoff.png
+08:35:04:497 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Rdigitoff.png
+08:35:04:513 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W0.png
+08:35:04:528 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W1.png
+08:35:04:544 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W2.png
+08:35:04:559 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W3.png
+08:35:04:575 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W4.png
+08:35:04:575 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W5.png
+08:35:04:591 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W6.png
+08:35:04:606 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W7.png
+08:35:04:606 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W8.png
+08:35:04:622 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W9.png
+08:35:04:637 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolon.png
+08:35:04:637 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
+08:35:04:653 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
+08:35:04:653 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W0.png
+08:35:04:669 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W1.png
+08:35:04:669 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W2.png
+08:35:04:684 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W3.png
+08:35:04:700 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W4.png
+08:35:04:700 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W5.png
+08:35:04:715 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W6.png
+08:35:04:731 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W7.png
+08:35:04:747 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W8.png
+08:35:04:762 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W9.png
+08:35:04:778 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolon.png
+08:35:04:778 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
+08:35:04:778 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
+08:35:04:778 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W0.png
+08:35:04:793 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W1.png
+08:35:04:809 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W2.png
+08:35:04:809 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W3.png
+08:35:04:840 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W4.png
+08:35:04:856 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W5.png
+08:35:04:856 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W6.png
+08:35:04:871 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W7.png
+08:35:04:887 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W8.png
+08:35:04:903 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/W9.png
+08:35:04:918 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolon.png
+08:35:04:918 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
+08:35:04:918 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
+08:35:04:949 INFO	FTCDisplay.main	Display Configured for division=2. Gold, using key=-1797482225,169750814
