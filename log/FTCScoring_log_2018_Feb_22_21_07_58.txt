@@ -532,3 +532,4 @@
 14:10:14:993 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 14:10:14:993 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 14:10:14:993 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:45:09:250 INFO	AllianceSelectionPanel.acceptAction	Alliance Captian 3, Team 7261 accepted selection
