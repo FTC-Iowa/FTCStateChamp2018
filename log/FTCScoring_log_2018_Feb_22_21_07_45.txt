@@ -362,3 +362,26 @@
 13:50:26:698 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 13:50:26:713 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 13:50:26:713 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+13:55:20:477 INFO	MatchPanel.saveAction	saving scores for match Q-34:
+13:55:20:477 INFO	MatchController.save	Saving real matches to disk
+13:55:20:492 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+13:55:20:508 FINEST	FTCProperties.store	Saving Properties File
+13:55:20:524 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+13:55:20:539 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+13:55:20:555 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+13:59:04:450 INFO	MatchPanel.saveAction	saving scores for match Q-35:
+13:59:04:450 INFO	MatchController.save	Saving real matches to disk
+13:59:04:465 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+13:59:04:465 FINEST	FTCProperties.store	Saving Properties File
+13:59:04:481 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+13:59:04:496 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+13:59:04:496 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:03:47:485 INFO	MatchPanel.saveAction	saving scores for match Q-36:
+14:03:47:501 INFO	MatchController.save	Saving real matches to disk
+14:03:47:501 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+14:03:47:516 FINEST	FTCProperties.store	Saving Properties File
+14:03:47:516 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+14:03:47:532 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+14:03:47:547 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:04:08:839 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+14:04:08:839 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
