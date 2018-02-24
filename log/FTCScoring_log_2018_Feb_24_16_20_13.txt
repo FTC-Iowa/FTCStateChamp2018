@@ -1,0 +1,68 @@
+----- Log Started at 16:20:13:773 -----
+16:20:13:773 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+16:20:13:788 INFO	FTCLogger.getInstance	Starting Log - FTCScoring Version: 1.4
+16:20:14:137 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/FTClogo.png
+16:20:14:262 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/gamelogo.png
+16:20:14:949 FINEST	StringBundle.SetLocal	Setting Bundle Locale to:US
+16:20:14:949 INFO	Startup Screen.<init>	Startup screen loaded
+16:20:17:086 FINEST	Startup Screen.dualDivisionFinalsAction	Starting Dual Division Finals Application
+16:20:17:101 FINEST	DivisionController.read	Reading event name from file
+16:20:17:101 FINEST	DivisionController.read	Reading event type from file
+16:20:17:101 FINEST	DivisionController.read	multiple division flag from file
+16:20:17:117 STDERR	java.lang.NumberFormatException: For input string: "null"
+16:20:17:133 STDERR		at java.lang.NumberFormatException.forInputString(Unknown Source)
+16:20:17:133 STDERR		at java.lang.Integer.parseInt(Unknown Source)
+16:20:17:133 STDERR		at java.lang.Integer.parseInt(Unknown Source)
+16:20:17:133 STDERR		at com.usfirst.StringTokenizerHelper.readNextInt(StringTokenizerHelper.java:116)
+16:20:17:133 STDERR		at com.usfirst.ftc.event.Division.parseString(Division.java:244)
+16:20:17:133 STDERR		at com.usfirst.ftc.event.DivisionController.read(DivisionController.java:381)
+16:20:17:133 STDERR		at com.usfirst.ftc.event.DivisionController.<init>(DivisionController.java:115)
+16:20:17:133 STDERR		at com.usfirst.ftc.event.DivisionController.getInstance(DivisionController.java:62)
+16:20:17:133 STDERR		at com.usfirst.ftc.systemUI.DualDivisionFinals.initComponents(DualDivisionFinals.java:87)
+16:20:17:133 STDERR		at com.usfirst.ftc.systemUI.DualDivisionFinals.<init>(DualDivisionFinals.java:71)
+16:20:17:133 STDERR		at com.usfirst.ftc.startup.FTCScoringStartup$3.actionPerformed(FTCScoringStartup.java:132)
+16:20:17:133 STDERR		at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+16:20:17:133 STDERR		at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+16:20:17:133 STDERR		at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+16:20:17:133 STDERR		at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+16:20:17:133 STDERR		at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+16:20:17:133 STDERR		at java.awt.Component.processMouseEvent(Unknown Source)
+16:20:17:133 STDERR		at javax.swing.JComponent.processMouseEvent(Unknown Source)
+16:20:17:148 STDERR		at java.awt.Component.processEvent(Unknown Source)
+16:20:17:148 STDERR		at java.awt.Container.processEvent(Unknown Source)
+16:20:17:148 STDERR		at java.awt.Component.dispatchEventImpl(Unknown Source)
+16:20:17:148 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+16:20:17:148 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+16:20:17:148 STDERR		at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+16:20:17:148 STDERR		at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+16:20:17:164 STDERR		at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+16:20:17:164 STDERR		at java.awt.Container.dispatchEventImpl(Unknown Source)
+16:20:17:164 STDERR		at java.awt.Window.dispatchEventImpl(Unknown Source)
+16:20:17:164 STDERR		at java.awt.Component.dispatchEvent(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue.access$500(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue$3.run(Unknown Source)
+16:20:17:164 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+16:20:17:164 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+16:20:17:164 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue$4.run(Unknown Source)
+16:20:17:164 STDERR		at java.security.AccessController.doPrivileged(Native Method)
+16:20:17:164 STDERR		at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+16:20:17:164 STDERR		at java.awt.EventQueue.dispatchEvent(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+16:20:17:179 STDERR		at java.awt.EventDispatchThread.run(Unknown Source)
+16:20:17:179 INFO	DivisionController.read	Divisions successfully read, 1 read from file
+16:20:17:179 INFO	DivisionController.save	Saved Division information to DualDivision_divisions.txt
+16:20:17:195 INFO	MatchController.read	File not found
+16:20:17:616 INFO	TeamController.read	Teams successfully read, 48 read from file
+16:20:17:616 INFO	AwardController.read	Awards successfully read, 15 read from file
+16:20:17:647 INFO	SponsorController.read	File not found
+16:25:35:095 FINEST	Startup Screen.main	Exiting
+16:25:35:095 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+----- Log Terminated at 16:25:35:110 -----
