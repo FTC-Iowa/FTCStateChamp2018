@@ -1,6 +1,7 @@
+@echo off
 :loop
 git add .
 git commit -m "sync"
 git push
-sleep 10m
+TIMEOUT /t 6000 
 goto loop
