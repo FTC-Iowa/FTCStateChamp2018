@@ -393,3 +393,19 @@
 14:40:39:579 INFO	AllianceSelectionPanel.acceptAction	Team 11222 accepted selection
 14:41:27:141 INFO	AllianceSelectionPanel.acceptAction	Team 8672 accepted selection
 14:42:04:540 INFO	AllianceSelectionPanel.acceptAction	Team 13732 accepted selection
+14:43:06:549 INFO	AllianceSelectionPanel.generateAction	Generating initial elimination matches and saving alliances
+14:43:06:565 INFO	AllianceController.save	Saved Alliance information
+14:43:06:565 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+14:43:06:565 INFO	MatchController.save	Saving real matches to disk
+14:43:06:565 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+14:43:06:581 FINEST	FTCProperties.store	Saving Properties File
+14:43:06:596 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+14:43:06:596 INFO	MatchController.save	Saving real matches to disk
+14:43:06:596 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+14:43:06:612 FINEST	FTCProperties.store	Saving Properties File
+14:43:06:627 INFO	MatchController.save	Saving real matches to disk
+14:43:06:643 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+14:43:06:659 FINEST	FTCProperties.store	Saving Properties File
+14:43:06:659 FINEST	MatchController.createEliminationTracker	Match controller contains 38 matches
+14:44:43:243 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+14:44:43:258 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
