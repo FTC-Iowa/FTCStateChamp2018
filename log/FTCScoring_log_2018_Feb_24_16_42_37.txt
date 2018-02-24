@@ -115,3 +115,26 @@
 16:56:53:377 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 16:56:53:392 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 16:56:53:392 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+17:06:21:569 INFO	MatchPanel.saveAction	saving scores for match F-2:
+17:06:21:569 FINEST	MatchController.update	Looking for next elimination match.  Match F-2 was just updated
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-2
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Red alliance has 0 wins
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Blue alliance has 2 wins
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Finals completed, event is finished, no more matches.
+17:06:21:585 FINEST	EliminationTracker.getNextMatch	Finals completed, Blue Won.
+17:06:21:585 FINEST	MatchController.update	Elimination tracker could not find additional matches
+17:06:21:585 FINEST	MatchController.update	Elimination tracker reporting that event is complete
+17:06:21:585 FINEST	AwardController.setAward	Adding award Iowa Championship Winning Alliance
+17:06:21:585 INFO	AwardController.save	Saved Award information
+17:06:21:585 FINEST	AwardController.setAward	Adding award Iowa Championship Finalist Alliance
+17:06:21:585 INFO	AwardController.save	Saved Award information
+17:06:21:585 INFO	MatchController.save	Saving real matches to disk
+17:06:21:585 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\DualDivision_matches.txt
+17:06:21:585 FINEST	FTCProperties.store	Saving Properties File
+17:06:21:585 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+17:06:21:585 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+17:06:21:585 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+17:06:33:648 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
+17:06:33:648 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
