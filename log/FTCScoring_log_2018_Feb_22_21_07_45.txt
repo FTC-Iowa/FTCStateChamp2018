@@ -385,3 +385,11 @@
 14:03:47:547 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 14:04:08:839 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 14:04:08:839 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+14:36:16:322 INFO	AllianceSelectionPanel.acceptAction	Alliance Captian 2, Team 9052 accepted selection
+14:37:16:290 INFO	AllianceSelectionPanel.acceptAction	Team 8588 accepted selection
+14:38:08:673 INFO	AllianceSelectionPanel.acceptAction	Team 10547 accepted selection
+14:38:52:790 INFO	AllianceSelectionPanel.acceptAction	Team 9967 accepted selection
+14:39:45:776 INFO	AllianceSelectionPanel.acceptAction	Team 8749 accepted selection
+14:40:39:579 INFO	AllianceSelectionPanel.acceptAction	Team 11222 accepted selection
+14:41:27:141 INFO	AllianceSelectionPanel.acceptAction	Team 8672 accepted selection
+14:42:04:540 INFO	AllianceSelectionPanel.acceptAction	Team 13732 accepted selection
