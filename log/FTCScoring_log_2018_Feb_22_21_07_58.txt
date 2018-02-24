@@ -420,3 +420,43 @@
 12:22:00:813 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 12:22:00:813 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 12:22:00:813 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:28:30:773 INFO	MatchPanel.saveAction	saving scores for match Q-27:
+12:28:30:773 INFO	MatchController.save	Saving real matches to disk
+12:28:30:773 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:28:30:789 FINEST	FTCProperties.store	Saving Properties File
+12:28:30:789 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:28:30:805 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:28:30:805 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:29:49:458 INFO	MatchPanel.saveAction	saving scores for match Q-28:
+12:29:49:474 INFO	MatchController.save	Saving real matches to disk
+12:29:49:474 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:29:49:505 FINEST	FTCProperties.store	Saving Properties File
+12:29:49:505 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:29:49:505 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:29:49:505 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:32:37:621 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:32:37:621 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+12:33:47:823 INFO	MatchPanel.saveAction	saving scores for match Q-27:103-390 B
+12:33:47:823 INFO	MatchController.save	Saving real matches to disk
+12:33:47:823 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:33:47:839 FINEST	FTCProperties.store	Saving Properties File
+12:33:47:855 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:33:47:855 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:33:47:855 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:33:57:542 INFO	MatchPanel.saveAction	saving scores for match Q-27:103-390 B
+12:33:57:542 INFO	MatchController.save	Saving real matches to disk
+12:33:57:542 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:33:57:558 FINEST	FTCProperties.store	Saving Properties File
+12:33:57:558 INFO	MatchController.save	Saving real matches to disk
+12:33:57:558 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:33:57:573 FINEST	FTCProperties.store	Saving Properties File
+12:33:57:589 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:33:57:589 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:33:57:589 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+12:34:01:021 INFO	MatchPanel.saveAction	saving scores for match Q-27:103-390 B
+12:34:01:037 INFO	MatchController.save	Saving real matches to disk
+12:34:01:037 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+12:34:01:052 FINEST	FTCProperties.store	Saving Properties File
+12:34:01:052 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+12:34:01:052 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+12:34:01:052 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
