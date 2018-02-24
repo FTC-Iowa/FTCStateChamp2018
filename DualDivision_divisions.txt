@@ -1,0 +1,8 @@
+Event Name
+State Championship
+Event Type
+REGIONAL_CHAMPIONSHIP
+Using Multiple Divisions
+false
+Number|Name|Matches Per Team|Password
+0||0|0|0|0|null

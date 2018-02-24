@@ -657,3 +657,9 @@
 16:10:40:412 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 16:10:40:412 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 16:10:40:412 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:15:42:359 FINEST	FTCScoringApp.shutdown	Shutting down the Scoring System
+16:15:42:530 INFO	DisplayPanel.stopMessageManager	Stopping message interface to displays
+16:15:42:530 FINEST	FTCProperties.store	Saving Properties File
+16:15:42:530 INFO	MessageManager.<Shutdown hook>	Aborting Thread
+16:15:42:530 FINEST	DisplayPanel.<Shutdown Thread>	Shutting down display Related Threads
+----- Log Terminated at 16:15:42:546 -----
