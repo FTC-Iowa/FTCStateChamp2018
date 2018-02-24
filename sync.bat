@@ -2,5 +2,5 @@
 git add .
 git commit -m "sync"
 git push
-sleep 600
+sleep 10m
 goto loop
