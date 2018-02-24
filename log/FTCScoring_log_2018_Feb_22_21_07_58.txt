@@ -221,3 +221,5 @@
 08:35:04:918 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wcolonoff.png
 08:35:04:918 FINEST	ScaleGUI.getScaledIcon	Scaling resource jar:file:/C:/Users/FTC_IOWA/Desktop/ftc-iowa-2018-gold/FTCScoring.jar!/com/usfirst/ftc/graphics/digits/Wdigitoff.png
 08:35:04:949 INFO	FTCDisplay.main	Display Configured for division=2. Gold, using key=-1797482225,169750814
+09:01:00:186 INFO	ReportGenerator.generateAnnouncerSheets	Generating Announcer Sheets
+09:01:00:186 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
