@@ -260,3 +260,24 @@
 10:00:50:186 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 10:00:50:186 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 10:00:50:186 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:04:11:604 INFO	MatchPanel.saveAction	saving scores for match Q-6:
+10:04:11:619 INFO	MatchController.save	Saving real matches to disk
+10:04:11:619 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+10:04:11:635 FINEST	FTCProperties.store	Saving Properties File
+10:04:11:635 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+10:04:11:635 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+10:04:11:635 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:08:56:458 INFO	MatchPanel.saveAction	saving scores for match Q-7:
+10:08:56:458 INFO	MatchController.save	Saving real matches to disk
+10:08:56:458 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+10:08:56:473 FINEST	FTCProperties.store	Saving Properties File
+10:08:56:489 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+10:08:56:489 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+10:08:56:489 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+10:19:00:566 INFO	MatchPanel.saveAction	saving scores for match Q-8:
+10:19:00:582 INFO	MatchController.save	Saving real matches to disk
+10:19:00:582 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+10:19:00:613 FINEST	FTCProperties.store	Saving Properties File
+10:19:00:613 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+10:19:00:613 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+10:19:00:613 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
