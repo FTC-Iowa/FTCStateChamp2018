@@ -554,3 +554,7 @@
 14:52:48:135 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
 14:52:48:150 FINEST	FTCProperties.store	Saving Properties File
 14:52:48:150 FINEST	MatchController.createEliminationTracker	Match controller contains 38 matches
+14:53:22:577 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+14:53:22:593 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+14:57:08:013 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
+14:57:08:013 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
