@@ -1,8 +1,10 @@
 Event Name
-State Championship
+Iowa Championship
 Event Type
 REGIONAL_CHAMPIONSHIP
 Using Multiple Divisions
 false
 Number|Name|Matches Per Team|Password
-0||0|0|0|0|null
+0|Iowa Championship|0|0|0|0|null
+1|Black|6|1|24|2018|Iowa
+2|Gold|6|1|24|2018|Iowa
