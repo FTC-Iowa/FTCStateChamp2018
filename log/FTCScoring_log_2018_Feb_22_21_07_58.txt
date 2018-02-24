@@ -636,3 +636,24 @@
 15:59:06:644 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 15:59:06:646 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 15:59:06:647 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+16:10:40:381 INFO	MatchPanel.saveAction	saving scores for match F-2:
+16:10:40:381 FINEST	MatchController.update	Looking for next elimination match.  Match F-2 was just updated
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-2
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Red alliance has 2 wins
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Blue alliance has 0 wins
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Finals completed, event is finished, no more matches.
+16:10:40:381 FINEST	EliminationTracker.getNextMatch	Finals completed, Red Won.
+16:10:40:381 FINEST	MatchController.update	Elimination tracker could not find additional matches
+16:10:40:381 FINEST	MatchController.update	Elimination tracker reporting that event is complete
+16:10:40:381 FINEST	AwardController.setAward	Adding award Gold Winning Alliance
+16:10:40:381 INFO	AwardController.save	Saved Award information
+16:10:40:381 FINEST	AwardController.setAward	Adding award Gold Finalist Alliance
+16:10:40:381 INFO	AwardController.save	Saved Award information
+16:10:40:397 INFO	MatchController.save	Saving real matches to disk
+16:10:40:397 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+16:10:40:412 FINEST	FTCProperties.store	Saving Properties File
+16:10:40:412 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:10:40:412 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:10:40:412 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
