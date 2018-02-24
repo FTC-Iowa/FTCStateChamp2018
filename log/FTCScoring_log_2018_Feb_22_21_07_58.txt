@@ -533,3 +533,24 @@
 14:10:14:993 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 14:10:14:993 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
 14:45:09:250 INFO	AllianceSelectionPanel.acceptAction	Alliance Captian 3, Team 7261 accepted selection
+14:46:47:316 INFO	AllianceSelectionPanel.acceptAction	Alliance Captian 4, Team 7236 accepted selection
+14:48:19:164 INFO	AllianceSelectionPanel.acceptAction	Team 6093 accepted selection
+14:49:12:119 INFO	AllianceSelectionPanel.acceptAction	Team 5466 accepted selection
+14:49:57:649 INFO	AllianceSelectionPanel.acceptAction	Team 9978 accepted selection
+14:50:53:596 INFO	AllianceSelectionPanel.acceptAction	Team 10107 accepted selection
+14:51:38:193 INFO	AllianceSelectionPanel.acceptAction	Team 8695 accepted selection
+14:52:11:459 INFO	AllianceSelectionPanel.acceptAction	Team 9925 accepted selection
+14:52:48:088 INFO	AllianceSelectionPanel.generateAction	Generating initial elimination matches and saving alliances
+14:52:48:088 INFO	AllianceController.save	Saved Alliance information
+14:52:48:088 INFO	MatchController.clearMatches	Removing existing match data for Type: FINAL
+14:52:48:088 INFO	MatchController.save	Saving real matches to disk
+14:52:48:088 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+14:52:48:103 FINEST	FTCProperties.store	Saving Properties File
+14:52:48:103 INFO	MatchController.clearMatches	Removing existing match data for Type: SEMIFINAL
+14:52:48:103 INFO	MatchController.save	Saving real matches to disk
+14:52:48:103 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+14:52:48:119 FINEST	FTCProperties.store	Saving Properties File
+14:52:48:135 INFO	MatchController.save	Saving real matches to disk
+14:52:48:135 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+14:52:48:150 FINEST	FTCProperties.store	Saving Properties File
+14:52:48:150 FINEST	MatchController.createEliminationTracker	Match controller contains 38 matches
