@@ -415,3 +415,18 @@
 14:56:50:275 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 14:57:21:545 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
 14:57:21:561 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+15:17:50:745 INFO	MatchPanel.saveAction	saving scores for match SF-1-1:
+15:17:50:745 FINEST	MatchController.update	Looking for next elimination match.  Match SF-1-1 was just updated
+15:17:50:745 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on SF-1-1
+15:17:50:745 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+15:17:50:745 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+15:17:50:745 FINEST	EliminationTracker.getNextMatch	Blue alliance has 0 wins
+15:17:50:745 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+15:17:50:745 FINEST	MatchController.update	Elimination tracker is adding: SF-1-2
+15:17:50:745 FINEST	MatchController.update	Match is new, add it
+15:17:50:755 INFO	MatchController.save	Saving real matches to disk
+15:17:50:765 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+15:17:50:775 FINEST	FTCProperties.store	Saving Properties File
+15:17:50:785 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+15:17:50:795 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+15:17:50:815 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
