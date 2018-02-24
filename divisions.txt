@@ -5,4 +5,4 @@ REGIONAL_CHAMPIONSHIP
 Using Multiple Divisions
 true
 Number|Name|Matches Per Team|Password
-1|Black|0|1|24|2018|Iowa
+1|Black|6|1|24|2018|Iowa
