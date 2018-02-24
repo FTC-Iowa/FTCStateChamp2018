@@ -309,3 +309,24 @@
 11:02:09:373 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 11:02:09:373 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 11:02:09:373 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:12:52:588 INFO	MatchPanel.saveAction	saving scores for match Q-13:
+11:12:52:588 INFO	MatchController.save	Saving real matches to disk
+11:12:52:588 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+11:12:52:604 FINEST	FTCProperties.store	Saving Properties File
+11:12:52:620 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:12:52:620 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:12:52:620 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:15:56:607 INFO	MatchPanel.saveAction	saving scores for match Q-14:
+11:15:56:623 INFO	MatchController.save	Saving real matches to disk
+11:15:56:623 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+11:15:56:670 FINEST	FTCProperties.store	Saving Properties File
+11:15:56:670 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:15:56:670 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:15:56:685 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+11:17:44:937 INFO	MatchPanel.saveAction	saving scores for match Q-15:
+11:17:44:937 INFO	MatchController.save	Saving real matches to disk
+11:17:44:937 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\matches.txt
+11:17:44:952 FINEST	FTCProperties.store	Saving Properties File
+11:17:44:952 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+11:17:44:968 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+11:17:44:968 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
