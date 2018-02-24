@@ -100,3 +100,18 @@
 16:44:39:418 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
 16:44:54:201 INFO	ReportGenerator.generateAdvancementReport	Generating teams that qualify for advancement
 16:44:54:216 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+16:56:53:377 INFO	MatchPanel.saveAction	saving scores for match F-1:
+16:56:53:377 FINEST	MatchController.update	Looking for next elimination match.  Match F-1 was just updated
+16:56:53:377 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on F-1
+16:56:53:377 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+16:56:53:377 FINEST	EliminationTracker.getNextMatch	Red alliance has 0 wins
+16:56:53:377 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+16:56:53:377 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+16:56:53:377 FINEST	MatchController.update	Elimination tracker is adding: F-2
+16:56:53:377 FINEST	MatchController.update	Match is new, add it
+16:56:53:377 INFO	MatchController.save	Saving real matches to disk
+16:56:53:377 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-gold\DualDivision_matches.txt
+16:56:53:377 FINEST	FTCProperties.store	Saving Properties File
+16:56:53:377 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+16:56:53:392 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+16:56:53:392 INFO	ReportGenerator.generateRankingReport	Generating Rankings report

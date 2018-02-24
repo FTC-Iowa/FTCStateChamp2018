@@ -1,0 +1,10 @@
+Number|Name|Matches Per Team|Password
+0|Iowa Championship|0|0|0|0|null
+0|2|3|11316|7261|9978
+2|11316|Weapons of Mass Construction| |Indianola|Iowa|USA|false|true|0
+2|7261|Omega Robotics| |Sioux City|Iowa|USA|false|true|0
+2|9978|Avengers Tech| |Sergeant Bluff|Iowa|USA|false|true|0
+Rankings
+Awards
+Iowa Championship Winning Alliance|3|false|false| | |true|2: 11316,7261,9978|11316|7261|9978
+Iowa Championship Finalist Alliance|3|false|false| | |true|1: 12783,9052,8749|12783|9052|8749
