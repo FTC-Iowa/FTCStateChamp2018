@@ -409,3 +409,9 @@
 14:43:06:659 FINEST	MatchController.createEliminationTracker	Match controller contains 38 matches
 14:44:43:243 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
 14:44:43:258 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+14:53:01:005 INFO	ReportGenerator.generateEliminiationLadderReport	Generating Elimination Ladder report
+14:53:01:005 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+14:56:50:260 INFO	ReportGenerator.generateAnnouncerSheets	Generating Announcer Sheets
+14:56:50:275 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
+14:57:21:545 INFO	ReportGenerator.generateAnnouncerAllianceSheets	Generating Announcer Alliance Sheets
+14:57:21:561 INFO	ReportGenerator.launchBrowser	Launching browser for OS: Windows 7
