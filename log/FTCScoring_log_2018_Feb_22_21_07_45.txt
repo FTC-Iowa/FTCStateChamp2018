@@ -460,3 +460,34 @@
 15:39:38:330 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
 15:39:38:350 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
 15:39:38:360 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+15:46:39:744 INFO	MatchPanel.saveAction	saving scores for match SF-2-2:
+15:46:39:744 FINEST	MatchController.update	Looking for next elimination match.  Match SF-2-2 was just updated
+15:46:39:744 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on SF-2-2
+15:46:39:744 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+15:46:39:744 FINEST	EliminationTracker.getNextMatch	Red alliance has 1 wins
+15:46:39:744 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+15:46:39:744 FINEST	EliminationTracker.getNextMatch	Neither team has enough wins, generating next match
+15:46:39:744 FINEST	MatchController.update	Elimination tracker is adding: SF-2-3
+15:46:39:744 FINEST	MatchController.update	Match is new, add it
+15:46:39:754 INFO	MatchController.save	Saving real matches to disk
+15:46:39:764 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+15:46:39:804 FINEST	FTCProperties.store	Saving Properties File
+15:46:39:814 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+15:46:39:844 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+15:46:39:854 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
+15:51:59:920 INFO	MatchPanel.saveAction	saving scores for match SF-1-3:
+15:51:59:920 FINEST	MatchController.update	Looking for next elimination match.  Match SF-1-3 was just updated
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Evaluating elimination ladder based on SF-1-3
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	found match, replacing it
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Red alliance has 2 wins
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Blue alliance has 1 wins
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Winner has been determined, advancing to next level in ladder
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Determine if alliance is red or blue in Finals
+15:51:59:920 FINEST	EliminationTracker.getNextMatch	Alliance is Red
+15:51:59:920 FINEST	MatchController.update	Elimination tracker could not find additional matches
+15:51:59:940 INFO	MatchController.save	Saving real matches to disk
+15:51:59:940 INFO	MatchController.save	Saved Match information to directory C:\Users\FTC_IOWA\Desktop\ftc-iowa-2018-black\matches.txt
+15:51:59:960 FINEST	FTCProperties.store	Saving Properties File
+15:51:59:960 INFO	ReportGenerator.generateMatchResultsDetailsReport	Generating Match results with details
+15:51:59:980 INFO	ReportGenerator.generateMatchResultsReport	Generating Match Results Report
+15:51:59:980 INFO	ReportGenerator.generateRankingReport	Generating Rankings report
